@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 30d69d4bda01dad4fb01ce8ed596f659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 675883724574346686
+    second: INGAME_POWERPOTION_1_0
+  - first:
+      213: -7745304962370296291
+    second: INGAME_POWERPOTION_1_1
+  - first:
+      213: -4541555078787617233
+    second: INGAME_POWERPOTION_1_2
+  - first:
+      213: 6420104916529371483
+    second: INGAME_POWERPOTION_1_3
+  - first:
+      213: 4819017993585527291
+    second: INGAME_POWERPOTION_1_4
+  - first:
+      213: -4985291582701781348
+    second: INGAME_POWERPOTION_1_5
+  - first:
+      213: 5931762521751387714
+    second: INGAME_POWERPOTION_1_6
+  - first:
+      213: -5461731925224298512
+    second: INGAME_POWERPOTION_1_7
+  - first:
+      213: -8658886147002070734
+    second: INGAME_POWERPOTION_1_8
+  - first:
+      213: 2015327708918722163
+    second: INGAME_POWERPOTION_1_9
+  - first:
+      213: -5501926054074494012
+    second: INGAME_POWERPOTION_1_10
+  - first:
+      213: -3769241699719072389
+    second: INGAME_POWERPOTION_1_11
+  - first:
+      213: -3772997194044749216
+    second: INGAME_POWERPOTION_1_12
+  - first:
+      213: 8571695693795464191
+    second: INGAME_POWERPOTION_1_13
+  - first:
+      213: -4867415525897446745
+    second: INGAME_POWERPOTION_1_14
+  - first:
+      213: 2108064945408526556
+    second: INGAME_POWERPOTION_1_15
+  - first:
+      213: 5226770591765479917
+    second: INGAME_POWERPOTION_1_16
+  - first:
+      213: 7320337891541998083
+    second: INGAME_POWERPOTION_1_17
+  - first:
+      213: 7210017283105588607
+    second: INGAME_POWERPOTION_1_18
+  - first:
+      213: 5171992557066324985
+    second: INGAME_POWERPOTION_1_19
+  - first:
+      213: -8752702701780681163
+    second: INGAME_POWERPOTION_1_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 291
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc8b0aaa8316900800000000000000
+      internalID: 675883724574346686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 298
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1629d05c26238490800000000000000
+      internalID: -7745304962370296291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 168
+        width: 107
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2ef0d7b729f0c0800000000000000
+      internalID: -4541555078787617233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 252
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d87a086bc81950800000000000000
+      internalID: 6420104916529371483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 247
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf981e9355790e240800000000000000
+      internalID: 4819017993585527291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 188
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb05ff7bfa0dab0800000000000000
+      internalID: -4985291582701781348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 188
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e77f0f59ad15250800000000000000
+      internalID: 5931762521751387714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 205
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7689260c70434b0800000000000000
+      internalID: -5461731925224298512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 169
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23904611de475d780800000000000000
+      internalID: -8658886147002070734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 171
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2a14afd1e7fb10800000000000000
+      internalID: 2015327708918722163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 82
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35c6e776b35a3b0800000000000000
+      internalID: -5501926054074494012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 97
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b7a7f4a6f0bbc0800000000000000
+      internalID: -3769241699719072389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 140
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aca6eca0f93abc0800000000000000
+      internalID: -3772997194044749216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 114
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39c6791d7c4f670800000000000000
+      internalID: 8571695693795464191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 84
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa59ac2e57737cb0800000000000000
+      internalID: -4867415525897446745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 93
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8478a16e9514d10800000000000000
+      internalID: 2108064945408526556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c3ac1928398840800000000000000
+      internalID: 5226770591765479917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a513d0780179560800000000000000
+      internalID: 7320337891541998083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 72
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758fe7c4802f0460800000000000000
+      internalID: 7210017283105588607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 72
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb07e804db96c740800000000000000
+      internalID: 5171992557066324985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_POWERPOTION_1_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 51
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb2cb3447288680800000000000000
+      internalID: -8752702701780681163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 893495442bf91564aa331d7bd5e2aa90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3778012728547779019
+    second: INGAME_PIGSDAY_1_0
+  - first:
+      213: -4517702304319122404
+    second: INGAME_PIGSDAY_1_1
+  - first:
+      213: -1589190328641146223
+    second: INGAME_PIGSDAY_1_2
+  - first:
+      213: 8785646830448445536
+    second: INGAME_PIGSDAY_1_3
+  - first:
+      213: 4529065384861709220
+    second: INGAME_PIGSDAY_1_4
+  - first:
+      213: -5186019794443586903
+    second: INGAME_PIGSDAY_1_5
+  - first:
+      213: 5142105496771903047
+    second: INGAME_PIGSDAY_1_6
+  - first:
+      213: -4870816583640939455
+    second: INGAME_PIGSDAY_1_7
+  - first:
+      213: -1636477727235477117
+    second: INGAME_PIGSDAY_1_8
+  - first:
+      213: 7075461793266788918
+    second: INGAME_PIGSDAY_1_9
+  - first:
+      213: 8975968410652160756
+    second: INGAME_PIGSDAY_1_10
+  - first:
+      213: 9186054003786380938
+    second: INGAME_PIGSDAY_1_11
+  - first:
+      213: -2395418762663316715
+    second: INGAME_PIGSDAY_1_12
+  - first:
+      213: -5463661329326609522
+    second: INGAME_PIGSDAY_1_13
+  - first:
+      213: 7283164510183989224
+    second: INGAME_PIGSDAY_1_14
+  - first:
+      213: 2310164404646207274
+    second: INGAME_PIGSDAY_1_15
+  - first:
+      213: -4640329744092268238
+    second: INGAME_PIGSDAY_1_16
+  - first:
+      213: 8182767913999405424
+    second: INGAME_PIGSDAY_1_17
+  - first:
+      213: -6849229621314765954
+    second: INGAME_PIGSDAY_1_18
+  - first:
+      213: -2381341793019600444
+    second: INGAME_PIGSDAY_1_19
+  - first:
+      213: -325910732172840474
+    second: INGAME_PIGSDAY_1_20
+  - first:
+      213: -8828435032964018092
+    second: INGAME_PIGSDAY_1_21
+  - first:
+      213: 9201735393048528715
+    second: INGAME_PIGSDAY_1_22
+  - first:
+      213: -9095602462236172676
+    second: INGAME_PIGSDAY_1_23
+  - first:
+      213: -5780438312113124651
+    second: INGAME_PIGSDAY_1_24
+  - first:
+      213: -7963935922565103655
+    second: INGAME_PIGSDAY_1_25
+  - first:
+      213: 1279785528438305909
+    second: INGAME_PIGSDAY_1_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 128
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e510ea07dc19bc0800000000000000
+      internalID: -3778012728547779019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145816a0b5ed41c0800000000000000
+      internalID: -4517702304319122404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 463
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192bbd4e0df02f9e0800000000000000
+      internalID: -1589190328641146223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 543
+        width: 182
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688ae27e33ece970800000000000000
+      internalID: 8785646830448445536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 400
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a33335b8f87ade30800000000000000
+      internalID: 4529065384861709220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bb02497e8708b0800000000000000
+      internalID: -5186019794443586903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 397
+        width: 158
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3cac84bd6c5740800000000000000
+      internalID: 5142105496771903047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1440006bf12676cb0800000000000000
+      internalID: -4870816583640939455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 354
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817a417d201a49e0800000000000000
+      internalID: -1636477727235477117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 265
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae3897307113260800000000000000
+      internalID: 7075461793266788918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 251
+        width: 157
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2bc0876bb019c70800000000000000
+      internalID: 8975968410652160756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 239
+        width: 27
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86fd37527b6b7f70800000000000000
+      internalID: 9186054003786380938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b52ba353c1ced0800000000000000
+      internalID: -2395418762663316715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 152
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be27cf7fc2d24b0800000000000000
+      internalID: -5463661329326609522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 240
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9f3eb88ff21560800000000000000
+      internalID: 7283164510183989224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f50b7494a5f0020800000000000000
+      internalID: 2310164404646207274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 155
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23973baeeac3a9fb0800000000000000
+      internalID: -4640329744092268238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 221
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071166940180f8170800000000000000
+      internalID: 8182767913999405424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 182
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b337cb2f5a2f0a0800000000000000
+      internalID: -6849229621314765954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c166429146c3fed0800000000000000
+      internalID: -2381341793019600444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 71
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b9547ae12a7bf0800000000000000
+      internalID: -325910732172840474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d091dc191b7580800000000000000
+      internalID: -8828435032964018092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470ccb469123bf70800000000000000
+      internalID: 9201735393048528715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 15
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e9e3c40cde5c180800000000000000
+      internalID: -9095602462236172676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 49
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da40703bf1c7cfa0800000000000000
+      internalID: -5780438312113124651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 19
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfb881297a6a7190800000000000000
+      internalID: -7963935922565103655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_PIGSDAY_1_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57430435826b2c110800000000000000
+      internalID: 1279785528438305909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

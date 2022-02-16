@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: dd97e587d4b2f604ca97cba6e200ec1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4745935962745493750
+    second: INGAME_SOUTHERN_1_0
+  - first:
+      213: 5975329416635997609
+    second: INGAME_SOUTHERN_1_1
+  - first:
+      213: 2781581138359499463
+    second: INGAME_SOUTHERN_1_2
+  - first:
+      213: -3441627051188133083
+    second: INGAME_SOUTHERN_1_3
+  - first:
+      213: 8512450978231641096
+    second: INGAME_SOUTHERN_1_4
+  - first:
+      213: 5883411694592524415
+    second: INGAME_SOUTHERN_1_5
+  - first:
+      213: 4774479155582422404
+    second: INGAME_SOUTHERN_1_6
+  - first:
+      213: 2133408577702782520
+    second: INGAME_SOUTHERN_1_7
+  - first:
+      213: -7592991281210095269
+    second: INGAME_SOUTHERN_1_8
+  - first:
+      213: -7627806302947837090
+    second: INGAME_SOUTHERN_1_9
+  - first:
+      213: 9220635136245156454
+    second: INGAME_SOUTHERN_1_10
+  - first:
+      213: 1972072059895037039
+    second: INGAME_SOUTHERN_1_11
+  - first:
+      213: -681513059767513172
+    second: INGAME_SOUTHERN_1_12
+  - first:
+      213: 1955613478448602238
+    second: INGAME_SOUTHERN_1_13
+  - first:
+      213: -7306297336272015532
+    second: INGAME_SOUTHERN_1_14
+  - first:
+      213: 3275002616156041827
+    second: INGAME_SOUTHERN_1_15
+  - first:
+      213: 349715295225808912
+    second: INGAME_SOUTHERN_1_16
+  - first:
+      213: -1609652424089021680
+    second: INGAME_SOUTHERN_1_17
+  - first:
+      213: 1127939271654299994
+    second: INGAME_SOUTHERN_1_18
+  - first:
+      213: 3148104191038641630
+    second: INGAME_SOUTHERN_1_19
+  - first:
+      213: -1004193288450688510
+    second: INGAME_SOUTHERN_1_20
+  - first:
+      213: 7708923356410206244
+    second: INGAME_SOUTHERN_1_21
+  - first:
+      213: 2193740881196743673
+    second: INGAME_SOUTHERN_1_22
+  - first:
+      213: 2635561918513149400
+    second: INGAME_SOUTHERN_1_23
+  - first:
+      213: 484817630809130483
+    second: INGAME_SOUTHERN_1_24
+  - first:
+      213: -2169443849398427751
+    second: INGAME_SOUTHERN_1_25
+  - first:
+      213: 1070079612804197027
+    second: INGAME_SOUTHERN_1_26
+  - first:
+      213: -9180955479820984238
+    second: INGAME_SOUTHERN_1_27
+  - first:
+      213: -958270837778548752
+    second: INGAME_SOUTHERN_1_28
+  - first:
+      213: -388679492829718342
+    second: INGAME_SOUTHERN_1_29
+  - first:
+      213: -5356165810837534963
+    second: INGAME_SOUTHERN_1_30
+  - first:
+      213: 5962688930391107252
+    second: INGAME_SOUTHERN_1_31
+  - first:
+      213: -870898317397510012
+    second: INGAME_SOUTHERN_1_32
+  - first:
+      213: 7864899307533010818
+    second: INGAME_SOUTHERN_1_33
+  - first:
+      213: -9033460451412972335
+    second: INGAME_SOUTHERN_1_34
+  - first:
+      213: 6113612848444776267
+    second: INGAME_SOUTHERN_1_35
+  - first:
+      213: -993598149735033577
+    second: INGAME_SOUTHERN_1_36
+  - first:
+      213: 1934255436543273757
+    second: INGAME_SOUTHERN_1_37
+  - first:
+      213: 7197797441829931789
+    second: INGAME_SOUTHERN_1_38
+  - first:
+      213: -4672236242638651853
+    second: INGAME_SOUTHERN_1_39
+  - first:
+      213: 5249313134988399436
+    second: INGAME_SOUTHERN_1_40
+  - first:
+      213: -7759824665589760165
+    second: INGAME_SOUTHERN_1_41
+  - first:
+      213: 4144364703931130413
+    second: INGAME_SOUTHERN_1_42
+  - first:
+      213: 130087648623926888
+    second: INGAME_SOUTHERN_1_43
+  - first:
+      213: 2636885930427076467
+    second: INGAME_SOUTHERN_1_44
+  - first:
+      213: -5224199153932598329
+    second: INGAME_SOUTHERN_1_45
+  - first:
+      213: -3143209951716258703
+    second: INGAME_SOUTHERN_1_46
+  - first:
+      213: 6577300217190190488
+    second: INGAME_SOUTHERN_1_47
+  - first:
+      213: 297697048349910469
+    second: INGAME_SOUTHERN_1_48
+  - first:
+      213: 8398698741534844399
+    second: INGAME_SOUTHERN_1_49
+  - first:
+      213: -2292351289793128937
+    second: INGAME_SOUTHERN_1_50
+  - first:
+      213: 4896605485079054889
+    second: INGAME_SOUTHERN_1_51
+  - first:
+      213: 7830822284225163867
+    second: INGAME_SOUTHERN_1_52
+  - first:
+      213: 2592741243604931453
+    second: INGAME_SOUTHERN_1_53
+  - first:
+      213: -6859328697574240388
+    second: INGAME_SOUTHERN_1_54
+  - first:
+      213: 214432535182376805
+    second: INGAME_SOUTHERN_1_55
+  - first:
+      213: 4097357808196163182
+    second: INGAME_SOUTHERN_1_56
+  - first:
+      213: 2665856391814366096
+    second: INGAME_SOUTHERN_1_57
+  - first:
+      213: 2114382821249447992
+    second: INGAME_SOUTHERN_1_58
+  - first:
+      213: 1370078337124693230
+    second: INGAME_SOUTHERN_1_59
+  - first:
+      213: 1893890114115309550
+    second: INGAME_SOUTHERN_1_60
+  - first:
+      213: -3684381048469485960
+    second: INGAME_SOUTHERN_1_61
+  - first:
+      213: -5134601004502496391
+    second: INGAME_SOUTHERN_1_62
+  - first:
+      213: 3604885333757808169
+    second: INGAME_SOUTHERN_1_63
+  - first:
+      213: -3566151274505183958
+    second: INGAME_SOUTHERN_1_64
+  - first:
+      213: 5486578969349740325
+    second: INGAME_SOUTHERN_1_65
+  - first:
+      213: 2871617061937997240
+    second: INGAME_SOUTHERN_1_66
+  - first:
+      213: 4334059204308749750
+    second: INGAME_SOUTHERN_1_67
+  - first:
+      213: 2816597498493387446
+    second: INGAME_SOUTHERN_1_68
+  - first:
+      213: -8328927069644431180
+    second: INGAME_SOUTHERN_1_69
+  - first:
+      213: 8611203949950044039
+    second: INGAME_SOUTHERN_1_70
+  - first:
+      213: -2345088487353079096
+    second: INGAME_SOUTHERN_1_71
+  - first:
+      213: -1003808340628396048
+    second: INGAME_SOUTHERN_1_72
+  - first:
+      213: -9115319422150877815
+    second: INGAME_SOUTHERN_1_73
+  - first:
+      213: 9049932961620610758
+    second: INGAME_SOUTHERN_1_74
+  - first:
+      213: 251213011531292625
+    second: INGAME_SOUTHERN_1_75
+  - first:
+      213: -1167267045929208264
+    second: INGAME_SOUTHERN_1_76
+  - first:
+      213: -1305275206665209688
+    second: INGAME_SOUTHERN_1_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85232fc93fcd140800000000000000
+      internalID: 4745935962745493750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 720
+        width: 106
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add78e1272ace250800000000000000
+      internalID: 5975329416635997609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 619
+        width: 336
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca38d1de492a9620800000000000000
+      internalID: 2781581138359499463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 695
+        width: 226
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236e847e62ec30d0800000000000000
+      internalID: -3441627051188133083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_4
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 811
+        width: 10
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046c65501d422670800000000000000
+      internalID: 8512450978231641096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 861
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70019bb3c316a150800000000000000
+      internalID: 5883411694592524415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 792
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4ff7ee7b524240800000000000000
+      internalID: 4774479155582422404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 633
+        width: 218
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836eeb25cc36b9d10800000000000000
+      internalID: 2133408577702782520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 627
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5985dcb8a640a690800000000000000
+      internalID: -7592991281210095269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 580
+        width: 245
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bfe41d496942690800000000000000
+      internalID: -7627806302947837090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 190
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac06badc646ff70800000000000000
+      internalID: 9220635136245156454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 597
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c348907153e5b10800000000000000
+      internalID: 1972072059895037039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 594
+        width: 205
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf84c2ab77ca86f0800000000000000
+      internalID: -681513059767513172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 475
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c15ece81cb32b10800000000000000
+      internalID: 1955613478448602238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 587
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45faf187841da9a90800000000000000
+      internalID: -7306297336272015532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 573
+        width: 205
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b4761785237d20800000000000000
+      internalID: 3275002616156041827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 572
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018847845307ad400800000000000000
+      internalID: 349715295225808912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 575
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d35a06ad59a9e0800000000000000
+      internalID: -1609652424089021680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 502
+        width: 131
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59da2f9ace37af00800000000000000
+      internalID: 1127939271654299994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 484
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d6c6151050bb20800000000000000
+      internalID: 3148104191038641630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 375
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab01c46836012f0800000000000000
+      internalID: -1004193288450688510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 482
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428da83f2f89bfa60800000000000000
+      internalID: 7708923356410206244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 438
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbfbf065bbb17e10800000000000000
+      internalID: 2193740881196743673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_23
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 489
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f580e995639420800000000000000
+      internalID: 2635561918513149400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 403
+        width: 120
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58939011b6ab600800000000000000
+      internalID: 484817630809130483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f537c205694e1e0800000000000000
+      internalID: -2169443849398427751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 406
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae4920dbfa9de00800000000000000
+      internalID: 1070079612804197027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_27
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 436
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250289642a1b69080800000000000000
+      internalID: -9180955479820984238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_28
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 363
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7f79b00c983b2f0800000000000000
+      internalID: -958270837778548752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 420
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d7628f022b9af0800000000000000
+      internalID: -388679492829718342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 381
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07cfeeb2931ba5b0800000000000000
+      internalID: -5356165810837534963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 318
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ad129df9bfb250800000000000000
+      internalID: 5962688930391107252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 393
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48839043892f9e3f0800000000000000
+      internalID: -870898317397510012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 296
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28788bb004cb52d60800000000000000
+      internalID: 7864899307533010818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 324
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc6dfca493b2a280800000000000000
+      internalID: -9033460451412972335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f90dd8e7ae7d450800000000000000
+      internalID: 6113612848444776267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 292
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715de834fb70632f0800000000000000
+      internalID: -993598149735033577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 219
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba708421bd7da10800000000000000
+      internalID: 1934255436543273757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 241
+        width: 145
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b0d7543a6b3e360800000000000000
+      internalID: 7197797441829931789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 222
+        width: 90
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e31d254e1e82fb0800000000000000
+      internalID: -4672236242638651853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_40
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 310
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4396c5fb7e49d840800000000000000
+      internalID: 5249313134988399436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 276
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f353874909f4490800000000000000
+      internalID: -7759824665589760165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_42
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 276
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226b7d8dbdb38930800000000000000
+      internalID: 4144364703931130413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 164
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e15e5f60a2ec100800000000000000
+      internalID: 130087648623926888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 105
+        width: 78
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc45c68c9189420800000000000000
+      internalID: 2636885930427076467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 148
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c383f96c8aef77b0800000000000000
+      internalID: -5224199153932598329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_46
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 233
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cca7dc3331164d0800000000000000
+      internalID: -3143209951716258703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_47
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 212
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d88b213b3474b50800000000000000
+      internalID: 6577300217190190488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_48
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 194
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5249163e1a12400800000000000000
+      internalID: 297697048349910469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_49
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 194
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe564b8d10c2e8470800000000000000
+      internalID: 8398698741534844399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_50
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 232
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d877b5aeef20e0800000000000000
+      internalID: -2292351289793128937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_51
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 72
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92acd5fcebc34f340800000000000000
+      internalID: 4896605485079054889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 179
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523476c06bacac60800000000000000
+      internalID: 7830822284225163867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_53
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 138
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7393939c644bf320800000000000000
+      internalID: 2592741243604931453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_54
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 168
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fc17f44e4cec0a0800000000000000
+      internalID: -6859328697574240388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_55
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 119
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff4df2141d9f200800000000000000
+      internalID: 214432535182376805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_56
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 119
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669433c73dbcd830800000000000000
+      internalID: 4097357808196163182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_57
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 119
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093cc4893460ff420800000000000000
+      internalID: 2665856391814366096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 157
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f2c339fbc75d10800000000000000
+      internalID: 2114382821249447992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_59
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 101
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee476c61dfe730310800000000000000
+      internalID: 1370078337124693230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 153
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef87774603784a10800000000000000
+      internalID: 1893890114115309550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 60
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768bc405f27edcc0800000000000000
+      internalID: -3684381048469485960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 17
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc347379b3eb8b0800000000000000
+      internalID: -5134601004502496391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_63
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 54
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e46ae8c10270230800000000000000
+      internalID: 3604885333757808169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 44
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddfc36f4c728ec0800000000000000
+      internalID: -3566151274505183958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_65
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 44
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275834e08e342c40800000000000000
+      internalID: 5486578969349740325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_66
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 76
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e3cbd0880ad720800000000000000
+      internalID: 2871617061937997240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_67
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 76
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc55c22eba52c30800000000000000
+      internalID: 4334059204308749750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_68
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 20
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c3fc7080961720800000000000000
+      internalID: 2816597498493387446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 17
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b065bd65f4b96c80800000000000000
+      internalID: -8328927069644431180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_70
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 17
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787863d4e54218770800000000000000
+      internalID: 8611203949950044039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_71
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 17
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca26701272947fd0800000000000000
+      internalID: -2345088487353079096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_72
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72542f1a1c112f0800000000000000
+      internalID: -1003808340628396048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_73
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 5
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5a74d741ef7180800000000000000
+      internalID: -9115319422150877815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_74
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cece7a7412d79d70800000000000000
+      internalID: 9049932961620610758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_75
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df574b27ec7c7300800000000000000
+      internalID: 251213011531292625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_76
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836be516ec80dcfe0800000000000000
+      internalID: -1167267045929208264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_SOUTHERN_1_77
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8789c7d1bb2ede0800000000000000
+      internalID: -1305275206665209688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
